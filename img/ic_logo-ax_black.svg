@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="30px" viewBox="0 0 48 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>ShapeAX</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile/Header" transform="translate(-44.000000, -88.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="Header" transform="translate(0.000000, 80.000000)">
+                <g id="axlogo" transform="translate(20.000000, 8.000000)">
+                    <path d="M47.2832447,0 L48.0306433,0 L48.0306433,30 L47.2832447,30 L47.2832447,0 Z M33.510557,18.3163975 L27.6957959,18.3163975 L30.6145743,10.7213665 L33.510557,18.3163975 Z M38.7094617,23.6830435 L31.9598918,6.15074534 L31.5495699,6.15074534 L24.8,23.6830435 L25.6436262,23.6830435 L27.422248,19.0442236 L33.8069006,19.0442236 L35.5855224,23.6830435 L38.7094617,23.6830435 Z M56.8125769,23.6645963 L57.7468252,23.6645963 L62.7917657,16.2111801 L67.6498566,23.6645963 L71.2,23.6645963 L64.6602622,13.7888199 L69.7052028,6.52173913 L68.7709545,6.52173913 L64.0997133,13.2298137 L59.8021713,6.52173913 L56.4388776,6.52173913 L62.4180664,15.4658385 L56.8125769,23.6645963 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
