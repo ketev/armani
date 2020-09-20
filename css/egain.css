@@ -1,0 +1,7 @@
+.hide {
+	display: none !important;
+}
+
+.error {
+	border: red 1px solid !important;
+}
